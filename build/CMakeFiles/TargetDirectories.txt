@@ -1,0 +1,8 @@
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/CMakeFiles/BaseChess.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/CMakeFiles/edit_cache.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/CMakeFiles/rebuild_cache.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/examples/CMakeFiles/edit_cache.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/examples/CMakeFiles/rebuild_cache.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/examples/CHESS-CLI/CMakeFiles/ChessConsole.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/examples/CHESS-CLI/CMakeFiles/edit_cache.dir
+/Users/aravindsooryakant/Desktop/Halodoc@Intern/BaseChess/build/examples/CHESS-CLI/CMakeFiles/rebuild_cache.dir
